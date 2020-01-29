@@ -1,0 +1,88 @@
+1. services.msc 
+- Ketika kita memasukkan "services.msc" dan menekan tombol Enter, itu akan membuka aplikasi Windows Services di mana
+kita dapat dengan mudah memulai, menghentikan dan mengkonfigurasi pengaturan lain untuk masing-masing dan setiap 
+layanan secara individual. Ini cukup membantu ketika kita ingin beralih layanan.
+
+2. mstsc
+- Memasukkan "mstsc" ke dalam kotak dialog Run akan membuka aplikasi Remote Desktop Connection yang memungkinkan kita untuk 
+terhubung ke komputer Windows lain melalui jaringan lokal atau melalui Internet. Ini membantu kita menggunakan komputer 
+host sebagai milik kita.
+
+3. msinfo32 
+- Jika Anda ingin mendapatkan informasi sistem dengan cepat, maka perintah "msinfo32" adalah caranya. Sekilas akan menampilkan 
+semua detail sistem termasuk sumber daya perangkat keras dan lingkungan perangkat lunak.
+
+4. sdclt
+- Perintah ini membuka jendela Pencadangan dan Pemulihan yang memungkinkan Anda untuk dengan cepat mengatur jadwal pencadangan 
+atau memulihkan cadangan Anda yang sebelumnya.
+
+5. compmgmt.msc
+- Aplikasi Computer Management adalah tempat Anda dapat mengakses hampir semua modul Windows canggih seperti Event Viewer, Shared 
+Folder, System Tools, dll.
+
+6. cleanmgr
+- Perintah ini memungkinkan Anda untuk membuka utilitas Pembersihan Disk Windows. Setelah dibuka, cukup pilih drive yang ingin
+ Anda bersihkan dan klik tombol "OK".
+
+7. eventvwr.msc
+- Windows Event Viewer adalah tempat Windows menyimpan semua pesan pemantauan dan pemecahan masalah. Anda dapat menggunakan 
+perintah ini untuk dengan cepat mengakses aplikasi Peraga Peristiwa.
+
+8. control
+- Setiap pengguna Windows mengetahui satu atau dua hal tentang Panel Kontrol Windows, dan menggunakan perintah ini Anda dapat 
+dengan cepat mengakses Panel Kontrol dengan beberapa tersandung ..
+
+9. resmon 
+- Setiap kali Anda ingin memeriksa bagaimana sumber daya sistem Anda digunakan, cukup gunakan perintah Jalankan ini, 
+dan itu menampilkan semuanya dari CPU Anda ke Dist to Network.
+
+10. calc
+- Jika Anda ingin dengan cepat membuka aplikasi kalkulator Windows bawaan, 
+mengetikkan calc di kotak dialog Run adalah cara termudah untuk melakukannya.
+
+11. powershell
+- Jika prompt perintah terlalu lama untuk Anda, maka Anda mungkin ingin mencoba PowerShell. 
+Cukup ketik perintah ini di kotak dialog Run, dan PowerShell Anda akan dibuka tanpa hak administrator.
+
+12. netplwiz
+- Opsi akun pengguna umum tersedia melalui Panel Kontrol, tetapi jika Anda ingin mengacaukan opsi 
+akun pengguna tingkat lanjut, maka gunakan perintah ini untuk membuka jendela Akun Pengguna Lanjutan. 
+Jika Anda ingin berurusan dengan Manajer Otorisasi, kemudian gunakan perintah Jalankan azman.msc.
+
+13. lusrmgr.msc 
+- Dengan menggunakan perintah ini, Anda dapat membuka Manajer Pengguna dan Grup Lokal di mana Anda dapat 
+mengedit beberapa properti dari semua pengguna dan grup.
+
+14. mrt
+- Setiap bulan Windows merilis versi terbaru Alat Penghapus Perangkat Lunak Berbahaya Microsoft Windows 
+melalui Pembaruan Windows. Alat gratis ini membantu Anda membersihkan beberapa perangkat lunak berbahaya 
+paling populer dari komputer Windows Anda. Alat ini berjalan secara diam-diam di latar belakang,
+tetapi jika Anda ingin menjalankannya secara manual, maka gunakan perintah Jalankan ini.
+
+15.ncpa.cpl 
+- Menjadi pengguna internet berarti Anda harus berurusan dengan masalah jaringan sesekali
+(jika tidak setiap hari), dan salah satu cara untuk memecahkan masalah koneksi jaringan Anda 
+adalah dengan mengakses Network Adapters Anda. 
+Untuk mengakses semua Network Adapters Anda, Anda dapat menggunakan perintah Run ini.
+
+16. perfmon.msc
+-Jika Anda ingin memantau kinerja komputer Windows Anda dan efek dari program yang Anda jalankan, 
+menjalankan Monitor Kinerja akan memberikan banyak data.
+Anda dapat mengakses Monitor Kinerja menggunakan perintah ini.
+
+17. appwiz.cpl
+- Dengan menggunakan perintah ini, Anda dapat dengan cepat mengakses jendela Program dan Fitur tempat Anda 
+dapat dengan cepat menghapus instalasi program yang diinstal.
+
+18. devmgmt.msc
+- Windows Device Manager adalah tempat Anda dapat mengelola semua perangkat perangkat keras Anda,
+dan Anda dapat menggunakan perintah Jalankan ini untuk mengaksesnya dengan cepat.
+Atau, Anda juga dapat menggunakan perintah "hdwwiz.cpl."
+
+19. msconfig
+- Konfigurasi Sistem Windows adalah tempat Anda dapat mengedit berbagai hal seperti opsi boot,
+opsi startup, layanan, dll. Anda dapat menggunakan perintah 
+Jalankan ini untuk mengakses jendela Konfigurasi Sistem.
+
+20. sysdm.cpl
+- Jika Anda pernah ingin mengakses jendela System Properties, maka menggunakan perintah Run ini akan membukanya.
