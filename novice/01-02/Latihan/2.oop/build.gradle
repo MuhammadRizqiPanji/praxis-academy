@@ -20,6 +20,15 @@ repositories {
     jcenter()
 }
 
+// mainClassName = "InterfaceLat" "InterfaceLat": "$mainClassName"
+
+jar {
+  manifest {
+    // attributes 'Main-Class': 'InterfaceLat.BukuBagus'
+    attributes 'Main-Class': 'Latihanclass.Selselcheesetea'
+  }
+}
+
 dependencies {
     // This dependency is used by the application.
     implementation 'com.google.guava:guava:28.1-jre'
