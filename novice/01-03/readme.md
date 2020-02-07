@@ -54,4 +54,8 @@
     satu lagi kalau kita memeakai library dari java yaitu ArrayList jangan lupa untuk menambahakan syntax import.java.util.ArrayList; paling atas diatas workspace.
 
 
+<<<<<<< HEAD
         
+=======
+        
+>>>>>>> b00ed8b06bed1bce28c2e17a777d83b89b671456
